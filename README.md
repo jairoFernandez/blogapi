@@ -6,3 +6,5 @@ List of gems
 - gem install factory-bot
 - gem install database_cleaner
 - gem install faker
+
+rails generate rspec:install
