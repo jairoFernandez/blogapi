@@ -17,3 +17,8 @@ https://github.com/DatabaseCleaner/database_cleaner
 - gem install faker
 
 rails generate rspec:install
+
+Monitoring apps
+
+pingdom
+runscope
